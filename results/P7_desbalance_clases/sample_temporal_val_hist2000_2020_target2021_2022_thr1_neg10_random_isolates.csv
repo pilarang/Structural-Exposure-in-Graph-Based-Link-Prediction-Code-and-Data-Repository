@@ -1,0 +1,39 @@
+source,target,connected,sum_of_papers,sum_of_keywords,keywords_match,sum_of_areas,sum_of_neighbors,log_secundary_neighbors,lenght_short_path,clustering_index_sum,jaccard_coefficient,resource_allocation,adamic_adar_index,preferential_attachment,community_cn,community_ra
+Alejandro Pimentel,Leonid Fridman,0,10,35,0,2,1,0.0,,0.0,0.0,0.0,0.0,0,0,0.0
+Alessio Franci,Eduardo Robles Belmont,0,3,13,0,2,2,3.4657359027997265,,1.0,0.0,0.0,0.0,0,0,0.0
+Jorge Alberto Márquez Flores,Victor Manuel Lomas Barrie,0,27,100,0,4,18,8.465268118551318,5.0,1.0076923076923077,0.0,0.0,0.0,65,0,0.0
+Alejandro Pimentel,Gemma Bel Enguix,1,60,176,0,2,17,4.584967478670572,,0.15441176470588236,0.0,0.0,0.0,0,0,0.0
+Francisco Hernández Quiroz,Lukas Nellen Filla,0,15,55,0,2,7,4.248495242049359,,0.23809523809523808,0.0,0.0,0.0,0,0,0.0
+Ernesto José María De La Salete Belmont Moreno,Ismael Herrera Revilla,0,5,21,0,2,8,6.956545443151569,2.0,0.5714285714285714,0.14285714285714285,0.06666666666666667,0.36926937306885504,7,1,0.0
+Ernesto José María De La Salete Belmont Moreno,Jose Luis Villaseñor Rios,0,4,14,0,3,7,4.248495242049359,,0.5714285714285714,0.0,0.0,0.0,0,0,0.0
+Eduardo Robles Belmont,Víctor Manuel Velasco Herrera,0,2,20,0,2,3,5.2574953720277815,,1.0,0.0,0.0,0.0,2,0,0.0
+Luis Ángel Contreras Toledo,Sergio Rajsbaum Gorodezky,0,138,799,0,4,15,7.9658927350845286,2.0,0.7142857142857142,0.07142857142857142,0.041666666666666664,0.31465798044412485,56,1,0.0
+Carlos Gershenson García,Grigori Sidorov,0,72,256,1,3,28,5.10594547390058,,0.06878306878306878,0.0,0.0,0.0,0,0,0.0
+Carlos Sarmiento Gutiérrez,Marco Negrete,1,6,8,0,4,11,7.62657020629066,2.0,1.0952380952380951,0.1,0.043478260869565216,0.318928988903801,24,2,0.043478260869565216
+Paul Erick Méndez Monroy,Sergio Rajsbaum Gorodezky,0,143,788,7,4,15,8.203851372183879,4.0,0.7142857142857142,0.0,0.0,0.0,56,0,0.0
+Silvia Raquel García Benítez,Víctor Manuel Velasco Herrera,0,8,29,0,3,3,4.356708826689592,,0.0,0.0,0.0,0.0,2,0,0.0
+Ernesto José María De La Salete Belmont Moreno,Luis Alberto Pineda Cortés,0,38,150,1,3,34,9.511185430954246,2.0,0.7252747252747253,0.029411764705882353,0.05263157894736842,0.3396232718951086,203,1,0.0
+Eduardo Robles Belmont,Rodolfo Silva Casarín,0,2,15,0,2,4,5.075173815233827,6.0,2.0,0.0,0.0,0.0,4,0,0.0
+Javier Gómez Castellanos,Jorge Luis Pérez González,0,34,162,1,4,13,7.7354333524996886,5.0,0.9166666666666666,0.0,0.0,0.0,36,0,0.0
+Francisco Hernández Quiroz,Jorge Luis Ortega Arjona,0,40,158,1,4,18,8.892886141190733,3.0,0.4562770562770563,0.0,0.0,0.0,99,0,0.0
+Ernesto José María De La Salete Belmont Moreno,José Luis Mateos Trigos,0,4,35,0,2,7,4.248495242049359,,0.5714285714285714,0.0,0.0,0.0,0,0,0.0
+Carlos Sarmiento Gutiérrez,Paul Erick Méndez Monroy,0,12,36,0,4,10,7.738488122494646,3.0,1.2380952380952381,0.0,0.0,0.0,21,0,0.0
+Ernesto José María De La Salete Belmont Moreno,Lukas Nellen Filla,1,4,14,0,3,7,4.248495242049359,,0.5714285714285714,0.0,0.0,0.0,0,0,0.0
+Jaime A. Moreno,Jorge Alberto Márquez Flores,0,28,133,0,4,16,7.180069874302797,5.0,0.641025641025641,0.0,0.0,0.0,39,0,0.0
+Francisco Hernández Quiroz,Rafael Hernandez Guerrero,0,15,97,0,2,9,6.956545443151569,5.0,1.2380952380952381,0.0,0.0,0.0,18,0,0.0
+Armando Castañeda Rojano,Ernesto José María De La Salete Belmont Moreno,0,26,112,0,3,10,6.956545443151569,6.0,1.5714285714285714,0.0,0.0,0.0,21,0,0.0
+Jose Luis Villaseñor Rios,Luis Agustín Álvarez Icaza Longoria,0,6,27,0,4,4,3.044522437723423,,0.16666666666666666,0.0,0.0,0.0,0,0,0.0
+Alessio Franci,Ernesto José María De La Salete Belmont Moreno,0,5,16,0,2,7,4.248495242049359,,0.5714285714285714,0.0,0.0,0.0,0,0,0.0
+Lukas Nellen Filla,Sandra Liliana Ramírez Mora,0,2,6,0,2,2,3.4011973816621555,,1.0,0.0,0.0,0.0,0,0,0.0
+Leonid Fridman,Víctor Rangel Licea,0,35,113,0,3,5,2.70805020110221,,0.5,0.0,0.0,0.0,4,0,0.0
+Jimena Olveres Montiel,Jorge Luis Ortega Arjona,0,45,204,5,5,22,9.166179476190413,2.0,0.45454545454545453,0.047619047619047616,0.043478260869565216,0.318928988903801,121,1,0.0
+Luis Ángel Contreras Toledo,Noé Salomón Hernández Sánchez,0,9,56,0,3,14,8.809862805379058,2.0,1.0952380952380953,0.15384615384615385,0.08514492753623187,0.6335869693479259,63,2,0.0
+Carlos Gershenson García,Sandra Liliana Ramírez Mora,0,72,256,0,4,30,8.507142855562735,3.0,1.0687830687830688,0.0,0.0,0.0,60,0,0.0
+Francisco Hernández Quiroz,Jorge Luis Pérez González,0,19,115,0,2,11,8.03268487596762,3.0,0.9047619047619047,0.0,0.0,0.0,36,0,0.0
+Alejandro Pimentel,Sergio Rajsbaum Gorodezky,0,134,761,0,3,8,3.7612001156935624,,0.14285714285714285,0.0,0.0,0.0,0,0,0.0
+José David Flores Peñaloza,Patricia Ávila García,0,9,30,0,3,5,3.091042453358316,,0.6666666666666666,0.0,0.0,0.0,4,0,0.0
+Gibrán Fuentes Pineda,Ricardo Adán Salas Rueda,0,12,38,0,3,10,6.541029999189904,,1.7619047619047619,0.0,0.0,0.0,21,0,0.0
+Cristina Verde Rodarte,Victor Manuel Lomas Barrie,0,32,115,0,4,15,7.182352111885262,6.0,0.7888888888888889,0.0,0.0,0.0,50,0,0.0
+Carlos Sarmiento Gutiérrez,Constantino González Salazar,0,4,22,0,2,4,6.792344427470809,4.0,0.6666666666666666,0.0,0.0,0.0,3,0,0.0
+Luis Alberto Pineda Cortés,Víctor Rangel Licea,0,61,217,0,3,31,7.970740390007096,5.0,0.6538461538461539,0.0,0.0,0.0,116,0,0.0
+Rafael Hernandez Guerrero,Víctor Lomas Barrie,0,3,51,0,1,5,4.90527477843843,,2.0,0.0,0.0,0.0,6,0,0.0

@@ -1,0 +1,8 @@
+source,target,connected,sum_of_papers,sum_of_keywords,keywords_match,sum_of_areas,sum_of_neighbors,log_secundary_neighbors,lenght_short_path,clustering_index_sum,jaccard_coefficient,resource_allocation,adamic_adar_index,preferential_attachment,community_cn,community_ra,no_historical_path
+Atocha Aliseda Llera,Ismael Herrera Revilla,0,7,18,0,2,2,2.70805020110221,,0.0,0.0,0.0,0.0,3,0,0,1
+Helena Montserrat Gómez Adorno,Jaime Arturo Pimentel Cabrera,1,27,118,3,3,29,9.91086030686554,2.0,0.4528817587641117,0.07142857142857142,0.09263157894736843,0.6502907391749145,220,2,0,0
+Pedro Jesús Acevedo Contla,Victor Manuel Lomas Barrie,0,16,131,0,3,11,7.656810091480378,5.0,1.2999999999999998,0.0,0.0,0.0,30,0,0,0
+David Arturo Rosenblueth Laguette,Octavio Zapata,1,36,182,0,4,23,8.64541048921699,2.0,0.1341991341991342,0.043478260869565216,0.03333333333333333,0.29401410379520604,24,1,0,0
+Alejandro Pimentel,Eduardo Robles Belmont,0,2,11,0,1,2,3.4657359027997265,,1.0,0.0,0.0,0.0,0,0,0,1
+Alejandro Huerta Saquero,Jorge Alberto Márquez Flores,0,25,96,0,4,15,7.38770923908104,4.0,1.3076923076923077,0.0,0.0,0.0,26,0,0,0
+Héctor Benítez Pérez,Javier Gómez Castellanos,1,113,383,4,4,28,9.176990392294629,3.0,0.5073099415204678,0.0,0.0,0.0,171,0,0,0

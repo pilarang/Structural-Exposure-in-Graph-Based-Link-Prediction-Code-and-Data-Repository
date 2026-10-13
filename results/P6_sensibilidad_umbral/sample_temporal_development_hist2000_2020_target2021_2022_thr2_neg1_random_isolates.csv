@@ -1,0 +1,5 @@
+source,target,connected,sum_of_papers,sum_of_keywords,keywords_match,sum_of_areas,sum_of_neighbors,log_secundary_neighbors,lenght_short_path,clustering_index_sum,jaccard_coefficient,resource_allocation,adamic_adar_index,preferential_attachment,community_cn,community_ra
+Ernesto José María De La Salete Belmont Moreno,Lukas Nellen Filla,1,4,14,0,3,7,4.248495242049359,,0.5714285714285714,0.0,0.0,0.0,0,0,0
+Jaime A. Moreno,Jorge Alberto Márquez Flores,0,28,133,0,4,16,7.180069874302797,5.0,0.641025641025641,0.0,0.0,0.0,39,0,0
+Ernesto Bribiesca Correa,Francisco Hernández Quiroz,0,57,227,0,4,18,8.667335849845959,2.0,0.36536796536796534,0.05555555555555555,0.041666666666666664,0.31465798044412485,99,1,0
+Javier Gómez Castellanos,María Elena Larrága Ramírez,1,31,110,0,3,11,5.7430031878094825,6.0,1.25,0.0,0.0,0.0,18,0,0

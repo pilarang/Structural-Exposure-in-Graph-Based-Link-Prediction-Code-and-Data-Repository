@@ -1,0 +1,22 @@
+source,target,connected,sum_of_papers,sum_of_keywords,keywords_match,sum_of_areas,sum_of_neighbors,log_secundary_neighbors,lenght_short_path,clustering_index_sum,jaccard_coefficient,resource_allocation,adamic_adar_index,preferential_attachment,community_cn,community_ra
+Luis Ángel Contreras Toledo,Sergio Rajsbaum Gorodezky,0,138,799,0,4,15,7.9658927350845286,2.0,0.7142857142857142,0.07142857142857142,0.041666666666666664,0.31465798044412485,56,1,0.0
+Boris Escalante Ramírez,Pedro Jesús Acevedo Contla,0,138,987,2,5,26,8.803874763534434,3.0,0.7105263157894737,0.0,0.0,0.0,120,0,0.0
+Eduardo Robles Belmont,Mario Alberto Martínez Núñez,0,5,33,0,1,4,6.238324625039508,6.0,2.0,0.0,0.0,0.0,4,0,0.0
+Jorge Alberto Márquez Flores,Victor Manuel Lomas Barrie,0,27,100,0,4,18,8.465268118551318,5.0,1.0076923076923077,0.0,0.0,0.0,65,0,0.0
+Jose Luis Villaseñor Rios,Luis Agustín Álvarez Icaza Longoria,0,6,27,0,4,4,3.044522437723423,,0.16666666666666666,0.0,0.0,0.0,0,0,0.0
+Gerardo Eugenio Sierra Martínez,Sandra Liliana Ramírez Mora,1,42,125,1,4,25,8.554488976159934,2.0,1.1343873517786562,0.04,0.05,0.33380820069533407,50,1,0.0
+Cristina Verde Rodarte,Victor Manuel Lomas Barrie,0,32,115,0,4,15,7.182352111885262,6.0,0.7888888888888889,0.0,0.0,0.0,50,0,0.0
+Axel Arturo Barceló Aspeitia,Fernando Arámbula Cosío,0,51,332,1,4,20,5.25227342804663,,0.14736842105263157,0.0,0.0,0.0,0,0,0.0
+Helena Montserrat Gómez Adorno,Jaime Arturo Pimentel Cabrera,1,27,118,3,3,29,9.91086030686554,2.0,0.4528817587641117,0.07142857142857142,0.09263157894736843,0.6502907391749145,220,2,0.0
+Flor Lizeth Torres Ortiz,Francisco Javier García Ugalde,0,58,329,0,5,13,7.150701457592527,6.0,0.8888888888888888,0.0,0.0,0.0,30,0,0.0
+Hanna Jadwiga Oktaba,Jorge Alberto Márquez Flores,0,59,199,0,5,25,8.804775258867686,3.0,0.4137529137529138,0.0,0.0,0.0,182,0,0.0
+José Luis Mateos Trigos,María Elena Larrága Ramírez,1,3,29,1,1,2,1.791759469228055,,1.0,0.0,0.0,0.0,0,0,0.0
+Ernesto Bribiesca Correa,Idalia Flores de la Mota,0,48,213,2,4,12,4.418840607796598,,0.12727272727272726,0.0,0.0,0.0,11,0,0.0
+Francisco Javier García Ugalde,Neftali Rojas Valencia,0,53,313,0,5,13,7.150701457592527,6.0,0.5555555555555556,0.0,0.0,0.0,30,0,0.0
+Gabriel Ascanio Gasca,Sandra Liliana Ramírez Mora,0,5,17,0,2,13,8.196987927258897,4.0,1.309090909090909,0.0,0.0,0.0,22,0,0.0
+Arturo Rodríguez García,Katya Rodríguez Vázquez,0,42,123,0,4,16,4.290459441148391,,0.03333333333333333,0.0,0.0,0.0,0,0,0.0
+Alejandro Huerta Saquero,Alessio Franci,0,4,12,0,3,2,2.772588722239781,,1.0,0.0,0.0,0.0,0,0,0.0
+Constantino González Salazar,Luis Agustín Álvarez Icaza Longoria,0,7,47,0,4,5,6.541029999189903,4.0,0.16666666666666666,0.0,0.0,0.0,4,0,0.0
+Grigori Sidorov,Tetyana Baydyk,0,43,324,0,4,9,3.6375861597263857,,0.3888888888888889,0.0,0.0,0.0,0,0,0.0
+Javier Gómez Castellanos,Jorge Luis Pérez González,0,34,162,1,4,13,7.7354333524996886,5.0,0.9166666666666666,0.0,0.0,0.0,36,0,0.0
+Jaime A. Moreno,Jorge Alberto Márquez Flores,0,28,133,0,4,16,7.180069874302797,5.0,0.641025641025641,0.0,0.0,0.0,39,0,0.0

@@ -1,0 +1,17 @@
+item,value
+p9_models,"GAT, GCN, GIN, GraphSAGE"
+p9_seed_min,41
+p9_seed_max,72
+p9_n_unique_seeds,32
+p9_same_seed_set_all_models,True
+p9_inferential_unit,seed-level final-test run
+p9_wilcoxon_paired,True
+p9_multiple_testing_correction,Holm within each metric across model pairs
+p9_primary_paired_effect_size,paired rank-biserial correlation
+p9_cliffs_delta_role,complementary unpaired distributional diagnostic only
+p9_ci95,"bootstrap CI of mean, 10000 resamples"
+p7_inferential_tests,False
+p8_inferential_tests,False
+p7_p8_reason,single final test per model/scenario; CV folds are not treated as independent experimental runs
+cv_folds_counted_as_independent_runs,False
+non_significant_means_equivalent,False

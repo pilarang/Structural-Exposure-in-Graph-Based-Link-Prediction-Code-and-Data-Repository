@@ -1,0 +1,5 @@
+threshold,split,feature_history,label_horizon,historical_authors,future_authors,historical_structural_nodes,historical_structural_active_authors,eligible_authors,eligible_with_structural_links,eligible_structural_isolates,historical_positive_pairs,future_positive_pairs_all,new_future_positive_pairs,negative_pairs,negative_ratio,negative_mode
+1,development,2000-2020,2021-2022,526,1063,526,455,96,84,12,113,49,17,17,1,random
+1,test,2000-2022,2023-2024,1493,662,1494,1242,176,144,32,152,134,56,56,1,random
+2,development,2000-2020,2021-2022,526,1063,526,455,96,84,12,56,11,2,2,1,random
+3,development,2000-2020,2021-2022,526,1063,526,455,96,84,12,38,7,1,1,1,random

@@ -1,0 +1,8 @@
+source,target,connected,sum_of_papers,sum_of_keywords,keywords_match,sum_of_areas,sum_of_neighbors,log_secundary_neighbors,lenght_short_path,clustering_index_sum,jaccard_coefficient,resource_allocation,adamic_adar_index,preferential_attachment,community_cn,community_ra
+Grigori Sidorov,Tetyana Baydyk,0,43,324,0,4,9,3.6375861597263857,,0.3888888888888889,0.0,0.0,0.0,0,0,0.0
+Constantino González Salazar,Patricia Ávila García,0,3,25,0,2,2,3.4965075614664802,,0.0,0.0,0.0,0.0,1,0,0.0
+Alejandro Pimentel,Helena Montserrat Gómez Adorno,1,21,91,0,3,18,4.983606621708336,,0.1437908496732026,0.0,0.0,0.0,0,0,0.0
+Alejandro Huerta Saquero,Octavio Zapata,0,3,9,0,2,3,6.104793232414985,6.0,1.0,0.0,0.0,0.0,2,0,0.0
+Katya Rodríguez Vázquez,Suemi Rodríguez Romo,1,48,159,2,4,17,4.983606621708336,,0.03333333333333333,0.0,0.0,0.0,18,0,0.0
+Ricardo Adán Salas Rueda,Tetyana Baydyk,0,47,329,0,5,12,5.834810737062606,,1.3888888888888888,0.0,0.0,0.0,27,0,0.0
+Helena Montserrat Gómez Adorno,Jaime Arturo Pimentel Cabrera,1,27,118,3,3,29,9.91086030686554,2.0,0.4528817587641117,0.07142857142857142,0.09263157894736843,0.6502907391749145,220,2,0.0

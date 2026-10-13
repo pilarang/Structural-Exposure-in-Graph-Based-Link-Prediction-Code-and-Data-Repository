@@ -1,0 +1,113 @@
+source,target,connected,sum_of_papers,sum_of_keywords,keywords_match,sum_of_areas,sum_of_neighbors,log_secundary_neighbors,lenght_short_path,clustering_index_sum,jaccard_coefficient,resource_allocation,adamic_adar_index,preferential_attachment,community_cn,community_ra
+Alejandro Lara Sánchez,Anna Lia Longinotti,1,3,4,0,2,21,6.066108090103747,,1.0,0.0,0.0,0.0,20,0,0.0
+Ami Paz,Victor Manuel Lomas Barrie,0,6,31,0,2,13,8.445267451844648,5.0,1.3571428571428572,0.0,0.0,0.0,40,0,0.0
+J. J. Camacho Escoto,L. Orozco Barbosa,1,4,64,3,2,16,8.449770515098804,2.0,1.1555555555555554,0.06666666666666667,0.03125,0.28853900817779266,60,1,0.0
+Alfonso Gastélum Strozzi,Edgar Garduño Angeles,1,51,233,2,4,29,8.450198322591959,2.0,1.116923076923077,0.03571428571428571,0.09090909090909091,0.4170323914242463,78,1,0.0
+Fabián Torres Robles,Jorge Marquez Flores,1,10,70,0,3,11,8.726481196440005,2.0,1.6,0.1,0.038461538461538464,0.30692767643013485,30,1,0.0
+Luis Alberto Martínez Medina,Octavio Manero Brito,0,3,8,0,3,4,2.833213344056216,,0.3333333333333333,0.0,0.0,0.0,3,0,0.0
+Avto Goguitchaichvili,Francisco Bautista,1,2,10,0,1,5,2.772588722239781,,1.0,0.0,0.0,0.0,4,0,0.0
+Arturo Iriarte Valverde,Ernesto José María De La Salete Belmont Moreno,1,7,21,0,3,30,8.340933226000878,6.0,1.242165242165242,0.0,0.0,0.0,81,0,0.0
+Eduardo Fragoso Navarro,Manuel Cedillo Hernández,1,2,13,0,1,3,3.951243718581427,,1.0,0.0,0.0,0.0,2,0,0.0
+Adriana  Martínez Hernández,Cesar F. Dominguez Velasco,1,4,51,1,1,7,6.068425588244111,2.0,1.8,0.4,0.25,0.9605402309330919,10,4,0.25757575757575757
+Guillermo  Ramírez Santiago,Vivian  Bass,0,2,29,0,1,5,4.6443908991413725,,2.0,0.0,0.0,0.0,6,0,0.0
+Flor Lizeth Torres Ortiz,Rosa María Ramírez Zamora,1,14,39,0,4,3,2.833213344056216,,0.6666666666666666,0.0,0.0,0.0,0,0,0.0
+Fernando Montoya,Jorge Marquez Flores,0,5,54,0,1,20,9.358070484000518,4.0,1.6285714285714286,0.0,0.0,0.0,75,0,0.0
+Stephany  Ortuño Chanelo,Yan Gao,0,6,19,0,3,5,3.828641396489095,,1.0,0.0,0.0,0.0,4,0,0.0
+J. Perez Gonzalez,Jorge Luis Pérez González,1,11,134,3,4,16,8.371010681238156,2.0,1.0992063492063493,0.13333333333333333,0.14358974358974358,0.7591406183201351,77,3,0.08333333333333333
+Francisco Javier García Ugalde,Manuel Cedillo Hernández,1,56,322,6,6,15,6.284134161070802,,1.141025641025641,0.0,0.0,0.0,30,0,0.0
+César Adrián Victoria  Ramírez,Fabián Torres Robles,1,10,73,0,3,7,8.155936337972394,2.0,0.6,0.16666666666666666,0.038461538461538464,0.30692767643013485,6,1,0.0
+Caleb Antonio Rascón Estebané,Jose Luis Medina Franco,0,15,51,0,4,12,5.247024072160486,,0.5111111111111111,0.0,0.0,0.0,20,0,0.0
+Fernando Patlan Cardoso,Jaime A. Moreno,0,13,69,0,6,10,6.6320017773956295,6.0,1.0476190476190477,0.0,0.0,0.0,21,0,0.0
+Atocha Aliseda Llera,Guillermo  Ramírez Santiago,0,8,39,0,2,6,3.6888794541139367,,1.5,0.0,0.0,0.0,12,0,0.0
+Humberto Andres Carrillo Calvet,Ricardo Arencibia Jorge,1,2,8,0,2,1,0.0,,0.0,0.0,0.0,0.0,0,0,0.0
+Alberto  Darszon,Ernesto Bribiesca Correa,1,48,215,3,4,26,10.19286818162349,4.0,0.7558441558441558,0.0,0.0,0.0,165,0,0.0
+Erik Molino Minero Re,Nidiyare  Hevia Montiel,1,27,175,5,4,24,9.063347348235522,4.0,0.6285714285714286,0.0,0.0,0.0,165,0,0.0
+Carlos Ignacio Hernández Castellanos,José David Flores Peñaloza,0,12,35,0,3,7,5.796057750765372,6.0,1.0,0.0,0.0,0.0,12,0,0.0
+César Adrián Victoria  Ramírez,Germán Ortiz,0,2,17,0,2,4,7.688913336864795,5.0,1.0,0.0,0.0,0.0,5,0,0.0
+Jorge Pérez González,Rafael Ángel Barrio Paredes,0,4,42,0,2,14,8.268988209506656,5.0,1.4727272727272727,0.0,0.0,0.0,39,0,0.0
+Anna Lia Longinotti,Arturo Iriarte Valverde,1,4,8,0,2,23,8.145549631783583,7.0,1.6666666666666665,0.0,0.0,0.0,60,0,0.0
+Rubén Tapia Olvera,Saúl de la Rosa Nieves,0,4,26,0,2,2,1.6094379124341003,,1.0,0.0,0.0,0.0,0,0,0.0
+Carlos Gershenson García,Ricardo Arencibia Jorge,0,81,298,1,3,42,5.521460917862246,,0.0475609756097561,0.0,0.0,0.0,43,0,0.0
+Fraigniaud P,Yu Tang Xu,0,12,61,0,6,8,6.0473721790462776,6.0,1.0,0.0,0.0,0.0,25,0,0.0
+César Adrián Victoria  Ramírez,Fernando Arámbula Cosío,1,51,353,0,4,22,8.961879012677683,2.0,0.15714285714285714,0.045454545454545456,0.038461538461538464,0.30692767643013485,23,1,0.0
+Ernesto Pérez Rueda,Leonardo Ledesma Dominguez,1,33,263,3,3,25,5.942799375126701,2.0,0.11231884057971014,0.04,0.3333333333333333,0.9102392266268373,26,1,0.0
+Carlos Ignacio Hernandez Castellanos,Suemi Rodríguez Romo,1,12,51,0,2,7,6.690842277418563,2.0,0.26666666666666666,0.14285714285714285,0.04,0.31066746727980593,8,1,0.0
+J. J. Camacho Escoto,Jose Jaime Camacho Escoto,1,3,28,0,3,10,4.406719247264253,,0.5555555555555556,0.0,0.0,0.0,0,0,0.0
+Edgar Garduño Angeles,Fabián Torres Robles,1,24,106,3,3,9,8.230044310126114,3.0,1.6,0.0,0.0,0.0,18,0,0.0
+Ami Paz,Marco Antonio Torres Vera,0,2,29,0,2,7,5.236441962829949,,2.0,0.0,0.0,0.0,10,0,0.0
+Oscar Ibañez Orozco,Simon González Martínez,0,3,4,0,1,4,3.5263605246161616,,0.6666666666666666,0.0,0.0,0.0,0,0,0.0
+Katya Rodríguez Vázquez,Mónica Vázquez Hernández,1,46,130,0,5,25,7.835974581721566,3.0,1.0316205533596838,0.0,0.0,0.0,50,0,0.0
+Armando Castañeda Rojano,Jesús Savage Carmona,0,68,364,2,5,47,9.695848187757882,3.0,0.31276566570684217,0.0,0.0,0.0,540,0,0.0
+Arturo Iriarte Valverde,José Rubén Alfaro Molina,1,5,9,0,2,27,8.21716859576607,7.0,1.4492753623188406,0.0,0.0,0.0,72,0,0.0
+Germán Ortiz,Rodolfo Silva,0,2,4,0,2,4,4.430816798843313,,1.0,0.0,0.0,0.0,5,0,0.0
+Hortensia Galeana Sanchez,Ricardo Adán Salas Rueda,0,8,19,0,2,4,2.890371757896165,,1.0,0.0,0.0,0.0,3,0,0.0
+Alejandro Lara Sánchez,Lukas Nellen Filla,1,6,7,0,2,25,6.137727054086234,,0.782608695652174,0.0,0.0,0.0,24,0,0.0
+Carlos Gershenson García,Carlos Ignacio Hernandez Castellanos,1,81,295,0,4,42,8.656955133791396,4.0,0.0475609756097561,0.0,0.0,0.0,43,0,0.0
+Gerardo Hernández Chavez,Víctor Lomas Barrie,1,6,21,0,2,7,3.1780538303479458,,0.2857142857142857,0.0,0.0,0.0,0,0,0.0
+Ignacio Sánchez Domínguez,Oscar Arana Hernández,0,4,13,0,2,3,4.2626798770413155,,0.0,0.0,0.0,0.0,0,0,0.0
+Alejandro Lara Sánchez,Arturo Iriarte Valverde,1,3,6,0,2,4,2.0794415416798357,,0.6666666666666666,0.0,0.0,0.0,3,0,0.0
+Alejandro Cruz Osorio,Pablo Suarez Serrato,0,3,3,0,1,0,0.0,,0.0,0.0,0.0,0.0,0,0,0.0
+Jorge Marquez Flores,Vivian  Bass,1,2,25,0,1,8,7.086737934510577,3.0,2.0,0.0,0.0,0.0,15,0,0.0
+Mariana Benítez Keinrad,María Elena Larrága Ramírez,1,6,64,0,3,19,8.914894908906568,3.0,1.2435897435897436,0.0,0.0,0.0,90,0,0.0
+Gemma Bel Enguix,Nidiyare Hevia Montiel,0,83,292,3,4,39,9.817275855717062,4.0,0.39327094474153296,0.0,0.0,0.0,456,0,0.0
+Cesar Hernández Cruz,Simon González Martínez,0,4,4,0,1,0,0.0,,0.0,0.0,0.0,0.0,0,0,0.0
+Flor Lizeth Torres Ortiz,Roberto Giovanni Ramírez Chavarría,1,14,40,0,3,3,2.833213344056216,,0.6666666666666666,0.0,0.0,0.0,0,0,0.0
+Marco Negrete,Stephany  Ortuño Chanelo,1,9,61,3,4,20,8.696175846944676,2.0,1.2416666666666667,0.05263157894736842,0.027777777777777776,0.2790553132756236,64,2,0.02857142857142857
+Catalina Naumis Peña,José David Flores Peñaloza,0,10,31,0,2,6,6.335054251498059,5.0,1.6666666666666665,0.0,0.0,0.0,8,0,0.0
+Claudia Ines Rivera Cardenas,Nissim Illich Fraija Cabrera,0,3,4,0,2,20,6.066108090103747,,1.0,0.0,0.0,0.0,0,0,0.0
+Javier Gómez Castellanos,Jose Jaime Camacho Escoto,1,38,211,0,6,30,5.572154032177765,,0.12183908045977011,0.0,0.0,0.0,0,0,0.0
+J. Perez Gonzalez,Nidiyare Hevia Montiel,1,21,149,7,3,24,8.741136422901011,2.0,0.8434873949579831,0.08695652173913043,0.14358974358974358,0.7591406183201351,133,2,0.0
+Alessandro Bravetti,Francisco Cuenca Jimenez,0,3,11,0,2,0,0.0,,0.0,0.0,0.0,0.0,0,0,0.0
+Cinthia Rodríguez Maya,Ernesto Pérez Rueda,1,33,267,0,3,26,6.230481447578482,,1.1123188405797102,0.0,0.0,0.0,52,0,0.0
+Gerardo Hernández Chavez,Victor Manuel Lomas Barrie,1,6,18,0,3,8,4.59511985013459,,0.35714285714285715,0.0,0.0,0.0,0,0,0.0
+María Fernanda Sánchez Díaz,Rodolfo Silva,0,2,16,0,2,3,1.3862943611198906,,1.0,0.0,0.0,0.0,2,0,0.0
+Arturo Iriarte Valverde,Nissim Illich Fraija Cabrera,1,4,8,0,2,23,8.145549631783583,7.0,1.6666666666666665,0.0,0.0,0.0,60,0,0.0
+Jesús Savage Carmona,Katya Rodríguez Vázquez,1,83,336,4,5,57,10.221941283654662,3.0,0.1136169882972952,0.0,0.0,0.0,900,0,0.0
+Jaime A. Moreno,Leonid Fridman,1,32,142,8,6,12,5.7745515455444085,2.0,0.44761904761904764,0.08333333333333333,0.2,0.6213349345596119,49,1,0.0
+Fabián Torres Robles,Vivian  Bass,1,10,68,5,3,9,8.155936337972394,3.0,1.6,0.0,0.0,0.0,18,0,0.0
+Francisco Bautista,Gemma Bel Enguix,0,67,220,0,3,23,4.882801922586371,,0.12121212121212122,0.0,0.0,0.0,24,0,0.0
+César Adrián Victoria  Ramírez,Edgar Garduño Angeles,1,16,64,0,3,4,6.590301048196686,3.0,1.0,0.0,0.0,0.0,3,0,0.0
+Octavio Manero Brito,Víctor Lomas Barrie,0,6,21,0,2,8,3.1780538303479458,,0.2857142857142857,0.0,0.0,0.0,7,0,0.0
+Fabián Torres Robles,Suemi Rodríguez Romo,0,20,109,0,4,12,8.453187861440325,3.0,0.8666666666666667,0.0,0.0,0.0,48,0,0.0
+Cesar Angeles Camacho,César Adrián Victoria  Ramírez,0,3,16,0,2,1,3.258096538021482,,0.0,0.0,0.0,0.0,0,0,0.0
+Alejandro Lara Sánchez,Jose Alberto Vazquez Gonzalez,1,2,2,0,1,1,0.0,,0.0,0.0,0.0,0.0,0,0,0.0
+Mariana Benítez Keinrad,Mark Earl Olson,1,2,6,0,2,6,4.110873864173311,,1.0,0.0,0.0,0.0,0,0,0.0
+Jorge Karolt Barrera Ballesteros,Luis Alberto Pineda Cortés,0,40,159,0,4,28,5.4638318050256105,,0.15384615384615385,0.0,0.0,0.0,29,0,0.0
+Jose Jaime Camacho Escoto,L. Orozco Barbosa,1,3,41,0,2,6,4.04305126783455,,0.6,0.0,0.0,0.0,0,0,0.0
+David López Mata,Marco Antonio Torres Vera,0,2,35,0,2,21,7.318539548567902,,2.0,0.0,0.0,0.0,38,0,0.0
+Fernando Patlan Cardoso,Pedro González Casanova Henriquez,0,3,3,0,2,5,4.882801922586371,,2.0,0.0,0.0,0.0,6,0,0.0
+Gustavo García,José David Flores Peñaloza,0,10,26,0,3,4,3.8501476017100584,,0.6666666666666666,0.0,0.0,0.0,0,0,0.0
+Eduardo Fragoso Navarro,Jose Esteban Lopez Aguilar,0,2,6,0,2,2,2.5649493574615367,,0.0,0.0,0.0,0.0,1,0,0.0
+Mark Earl Olson,María Elena Larrága Ramírez,1,6,60,0,3,13,4.804021044733257,,0.24358974358974358,0.0,0.0,0.0,0,0,0.0
+Edgardo Galán Vásquez,Hortensia Galeana Sanchez,0,12,172,0,2,8,4.304065093204169,,0.23809523809523808,0.0,0.0,0.0,9,0,0.0
+Arturo Iriarte Valverde,Lukas Nellen Filla,1,7,11,0,3,27,8.21716859576607,7.0,1.4492753623188406,0.0,0.0,0.0,72,0,0.0
+Adriana  Martínez Hernández,Eduardo A.  Garza Villarreal,0,3,39,1,1,3,2.772588722239781,,1.0,0.0,0.0,0.0,2,0,0.0
+Blanca  Prado,Rodolfo Silva Casarín,0,4,46,0,2,10,6.313548046277095,7.0,1.3,0.0,0.0,0.0,25,0,0.0
+Francisco Cuenca Jimenez,Ignacio Camacho Arroyo,0,2,2,0,1,2,1.3862943611198906,,1.0,0.0,0.0,0.0,0,0,0.0
+Gerardo Hernández Chavez,Pedro González Casanova Henriquez,1,3,3,0,2,2,1.3862943611198906,,1.0,0.0,0.0,0.0,0,0,0.0
+Jorge Luis Ortega Arjona,Jorge Mendez Astudillo,0,34,138,0,5,14,4.983606621708336,,0.14285714285714285,0.0,0.0,0.0,0,0,0.0
+Eduardo Fragoso Navarro,Marco Negrete,0,9,54,0,4,17,7.432483807917119,3.0,0.24166666666666667,0.0,0.0,0.0,16,0,0.0
+Flor Lizeth Torres Ortiz,Francisco Javier García Ugalde,0,68,359,0,6,16,7.731053144007127,5.0,0.8076923076923077,0.0,0.0,0.0,45,0,0.0
+Katya Rodríguez Vázquez,Simón López Ramírez,0,46,128,0,5,23,4.700480365792417,,0.03162055335968379,0.0,0.0,0.0,0,0,0.0
+Ernesto Bribiesca Correa,Gabriel Isaac Corkidi Blanco,1,114,1005,16,4,69,10.820418079697621,3.0,0.22346147500412472,0.0,0.0,0.0,660,0,0.0
+Jorge Marquez Flores,Maria Julieta  Mateos,1,2,25,0,1,8,7.086737934510577,3.0,2.0,0.0,0.0,0.0,15,0,0.0
+Caleb Antonio Rascón Estebané,Francisco Javier García Ugalde,0,66,362,0,6,23,9.451716691551452,3.0,0.652136752136752,0.0,0.0,0.0,150,0,0.0
+Fabián Torres Robles,Maria Julieta  Mateos,1,10,68,5,3,9,8.155936337972394,3.0,1.6,0.0,0.0,0.0,18,0,0.0
+Alejandro Lara Sánchez,José Rubén Alfaro Molina,1,4,5,0,2,25,6.137727054086234,,0.782608695652174,0.0,0.0,0.0,24,0,0.0
+Cinthia Rodríguez Maya,Leonardo Ledesma Dominguez,1,2,11,0,1,3,2.4849066497880004,,1.0,0.0,0.0,0.0,2,0,0.0
+Alejandro Lara Sánchez,Ernesto José María De La Salete Belmont Moreno,1,6,17,0,4,28,6.261491684321042,,0.5754985754985755,0.0,0.0,0.0,27,0,0.0
+Constantino González Salazar,Enrique Martinez Meyer,1,9,49,0,2,13,4.969813299576001,,0.46153846153846156,0.0,0.0,0.0,0,0,0.0
+Alejandro Cruz Osorio,Helena Montserrat Gómez Adorno,0,36,145,0,4,36,5.616771097666572,,0.06825396825396825,0.0,0.0,0.0,0,0,0.0
+Alessandro Bravetti,Luis Alberto Pineda Cortés,0,41,168,0,3,27,5.4638318050256105,,0.15384615384615385,0.0,0.0,0.0,0,0,0.0
+Jose Alberto Vazquez Gonzalez,Silvia Raquel García Benítez,0,9,21,0,4,2,2.5649493574615367,,0.0,0.0,0.0,0.0,0,0,0.0
+Jaime A. Moreno,L. Orozco Barbosa,0,14,108,0,5,13,7.1785454837637,7.0,0.6476190476190475,0.0,0.0,0.0,42,0,0.0
+Avto Goguitchaichvili,Ernesto Pérez Rueda,0,33,262,0,4,28,7.616775808698373,,1.1123188405797102,0.0,0.0,0.0,104,0,0.0
+Mark Earl Olson,Tom Froese,0,81,365,0,4,12,4.574710978503383,,0.10606060606060606,0.0,0.0,0.0,0,0,0.0
+Roberto Giovanni Ramírez Chavarría,Rosa María Ramírez Zamora,1,2,1,0,2,0,0.0,,0.0,0.0,0.0,0.0,0,0,0.0
+Alejandro Lara Sánchez,Carlos Ignacio Hernandez Castellanos,0,2,2,0,1,2,3.1354942159291497,,0.0,0.0,0.0,0.0,1,0,0.0
+Flor Lizeth Torres Ortiz,Jorge Alfonso Martínez Galicia,0,14,44,0,3,7,6.745236349484362,6.0,1.6666666666666665,0.0,0.0,0.0,12,0,0.0
+Enoch Gutiérrez Herrera,Silvia Raquel García Benítez,0,9,34,0,4,5,5.560681631015528,5.0,1.0,0.0,0.0,0.0,6,0,0.0
+Alejandro Lara Sánchez,Nissim Illich Fraija Cabrera,1,3,4,0,2,21,6.066108090103747,,1.0,0.0,0.0,0.0,20,0,0.0
+Carlos Ignacio Hernandez Castellanos,Cesar Angeles Camacho,0,3,3,0,1,1,3.1354942159291497,,0.0,0.0,0.0,0.0,0,0,0.0
+Edgar Garduño Angeles,Fernando Arámbula Cosío,1,65,383,6,4,24,9.035986984831405,3.0,1.157142857142857,0.0,0.0,0.0,69,0,0.0
+Hortensia Galeana Sanchez,Marco Antonio Arteaga Pérez,0,5,54,0,3,3,2.0794415416798357,,1.0,0.0,0.0,0.0,2,0,0.0

@@ -1,0 +1,7 @@
+experiment,ratio_negative_to_positive,split,feature_history,label_horizon,threshold,negative_mode,seed,future_used_for_features,historical_authors,future_authors,historical_structural_nodes,historical_structural_active_authors,eligible_authors,eligible_with_structural_links,eligible_structural_isolates,historical_positive_pairs,future_positive_pairs_all,new_future_positive_pairs,negative_pairs,negative_ratio
+P7_class_imbalance,1:1,train_val,2000-2020,2021-2022,1,random,41,False,526,1063,526,455,96,84,12,113,49,17,17,1
+P7_class_imbalance,1:1,test,2000-2022,2023-2024,1,random,42,False,1493,662,1494,1242,176,144,32,152,134,56,56,1
+P7_class_imbalance,5:1,train_val,2000-2020,2021-2022,1,random,41,False,526,1063,526,455,96,84,12,113,49,17,85,5
+P7_class_imbalance,5:1,test,2000-2022,2023-2024,1,random,42,False,1493,662,1494,1242,176,144,32,152,134,56,280,5
+P7_class_imbalance,10:1,train_val,2000-2020,2021-2022,1,random,41,False,526,1063,526,455,96,84,12,113,49,17,170,10
+P7_class_imbalance,10:1,test,2000-2022,2023-2024,1,random,42,False,1493,662,1494,1242,176,144,32,152,134,56,560,10

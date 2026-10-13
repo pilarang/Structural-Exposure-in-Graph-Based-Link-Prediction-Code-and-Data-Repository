@@ -1,0 +1,28 @@
+source,target,connected,sum_of_papers,sum_of_keywords,keywords_match,sum_of_areas,sum_of_neighbors,log_secundary_neighbors,lenght_short_path,clustering_index_sum,jaccard_coefficient,resource_allocation,adamic_adar_index,preferential_attachment,community_cn,community_ra,no_historical_path
+Katya Rodríguez Vázquez,Suemi Rodríguez Romo,1,48,159,2,4,17,4.983606621708336,,0.03333333333333333,0.0,0.0,0.0,18,0,0.0,1
+Katya Rodríguez Vázquez,Leonid Fridman,0,50,150,2,4,17,4.290459441148391,,0.03333333333333333,0.0,0.0,0.0,18,0,0.0,1
+Helena Montserrat Gómez Adorno,Lukas Nellen Filla,0,21,91,0,4,18,4.983606621708336,,0.1437908496732026,0.0,0.0,0.0,0,0,0.0,1
+Ernesto José María De La Salete Belmont Moreno,Lukas Nellen Filla,1,4,14,0,3,7,4.248495242049359,,0.5714285714285714,0.0,0.0,0.0,0,0,0.0,1
+Axel Arturo Barceló Aspeitia,Carlos Gershenson García,0,73,261,0,3,28,5.10594547390058,,0.06878306878306878,0.0,0.0,0.0,0,0,0.0,1
+Idalia Flores de la Mota,Katya Rodríguez Vázquez,1,46,160,0,4,17,4.290459441148391,,0.03333333333333333,0.0,0.0,0.0,18,0,0.0,1
+Alejandro Pimentel,Ernesto José María De La Salete Belmont Moreno,0,4,14,0,3,7,4.248495242049359,,0.5714285714285714,0.0,0.0,0.0,0,0,0.0,1
+Boris Escalante Ramírez,Gabriel Isaac Corkidi Blanco,1,191,1624,64,5,57,10.344319804481582,2.0,0.20512091038406827,0.017857142857142856,0.05,0.33380820069533407,740,1,0.0,0
+Alejandro Pimentel,Helena Montserrat Gómez Adorno,1,21,91,0,3,18,4.983606621708336,,0.1437908496732026,0.0,0.0,0.0,0,0,0.0,1
+Carlos Sarmiento Gutiérrez,Luis Ángel Contreras Toledo,0,7,40,0,3,10,7.500529485395295,2.0,1.2380952380952381,0.1111111111111111,0.043478260869565216,0.318928988903801,21,2,0.043478260869565216,0
+Victor Manuel Lomas Barrie,Víctor Lomas Barrie,1,6,21,0,2,8,6.0473721790462776,,1.7,0.0,0.0,0.0,15,0,0.0,1
+Francisco Hernández Quiroz,Jesús Savage Carmona,0,47,219,1,4,30,9.265775078864284,2.0,0.32900432900432897,0.06896551724137931,0.09166666666666667,0.648466181139459,207,2,0.0,0
+Carlos Sarmiento Gutiérrez,Marco Negrete,1,6,8,0,4,11,7.62657020629066,2.0,1.0952380952380951,0.1,0.043478260869565216,0.318928988903801,24,2,0.043478260869565216,0
+Boris Escalante Ramírez,Tetyana Baydyk,0,168,1144,45,5,29,8.6347984334905,,0.4994152046783626,0.0,0.0,0.0,180,0,0.0,1
+Gerardo Eugenio Sierra Martínez,Sandra Liliana Ramírez Mora,1,42,125,1,4,25,8.554488976159934,2.0,1.1343873517786562,0.04,0.05,0.33380820069533407,50,1,0.0,0
+Fabián Torres Robles,Gerardo Eugenio Sierra Martínez,0,49,166,1,4,28,9.429957713513835,2.0,0.7343873517786561,0.03571428571428571,0.05,0.33380820069533407,125,1,0.0,0
+Grigori Sidorov,Sandra Liliana Ramírez Mora,0,2,10,1,2,2,3.4011973816621555,,1.0,0.0,0.0,0.0,0,0,0.0,1
+Angel Zúñiga,Helena Montserrat Gómez Adorno,0,21,95,1,3,21,8.790269111478656,2.0,1.1437908496732025,0.1,0.09263157894736843,0.6502907391749145,60,2,0.0,0
+Gemma Bel Enguix,Lukas Nellen Filla,0,60,176,0,3,17,4.584967478670572,,0.15441176470588236,0.0,0.0,0.0,0,0,0.0,1
+Alejandro Pimentel,Gemma Bel Enguix,1,60,176,0,2,17,4.584967478670572,,0.15441176470588236,0.0,0.0,0.0,0,0,0.0,1
+David Arturo Rosenblueth Laguette,Eduardo Robles Belmont,0,36,192,0,4,24,8.778941881841513,2.0,1.1341991341991342,0.041666666666666664,0.03333333333333333,0.29401410379520604,48,1,0.0,0
+Carlos Gershenson García,María Elena Larrága Ramírez,1,73,258,1,3,30,6.897704943128636,5.0,1.0687830687830688,0.0,0.0,0.0,60,0,0.0,0
+Cristina Verde Rodarte,Héctor Benítez Pérez,0,112,384,3,4,29,8.557951183888406,5.0,0.34619883040935673,0.0,0.0,0.0,190,0,0.0,0
+Gerardo Eugenio Sierra Martínez,Hanna Jadwiga Oktaba,1,77,232,1,5,35,9.342946336524204,2.0,0.2404479578392622,0.05714285714285714,0.1,0.6676164013906681,350,2,0.0,0
+Carlos Gershenson García,José Luis Mateos Trigos,1,72,273,0,3,28,5.10594547390058,,0.06878306878306878,0.0,0.0,0.0,0,0,0.0,1
+Javier Gómez Castellanos,María Elena Larrága Ramírez,1,31,110,0,3,11,5.7430031878094825,6.0,1.25,0.0,0.0,0.0,18,0,0.0,0
+José Luis Mateos Trigos,María Elena Larrága Ramírez,1,3,29,1,1,2,1.791759469228055,,1.0,0.0,0.0,0.0,0,0,0.0,1
