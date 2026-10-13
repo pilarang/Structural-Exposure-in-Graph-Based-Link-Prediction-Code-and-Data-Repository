@@ -1,1 +1,5 @@
 
+The graph files contain anonymized researcher identifiers.
+Direct personal identifiers were removed before publication.
+The identifier mapping is not included in the repository.
+Only attributes required to reproduce the reported experiments are retained.
