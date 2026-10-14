@@ -1,0 +1,4 @@
+period,csv_rows,csv_unique_authors,csv_unique_titles,csv_unique_affiliation1,csv_unique_affiliation2
+2000_2020,2788,526,1665,61,21
+2021_2022,1572,1065,658,96,14
+2023_2024,895,662,396,80,9

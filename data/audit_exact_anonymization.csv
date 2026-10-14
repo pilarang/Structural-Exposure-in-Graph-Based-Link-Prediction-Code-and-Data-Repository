@@ -1,0 +1,7 @@
+file,original_nodes,anonymous_nodes,original_edges,anonymous_edges,node_set_exact_under_mapping,edge_set_exact_under_mapping,degree_multiset_equal,node_type_counts_equal
+BD_UNAM_Graph_2000_2020.gml,9041,9041,14064,14064,True,True,True,True
+BD_UNAM_Graph_2021_2022.gml,5151,5151,6752,6752,True,True,True,True
+BD_UNAM_Graph_2023_2024.gml,3207,3207,4025,4025,True,True,True,True
+BD_UNAM_Sub_Graph_2000_2020.gml,526,526,933,933,True,True,True,True
+BD_UNAM_Sub_Graph_2021_2022.gml,1064,1064,2250,2250,True,True,True,True
+BD_UNAM_Sub_Graph_2023_2024.gml,662,662,1179,1179,True,True,True,True

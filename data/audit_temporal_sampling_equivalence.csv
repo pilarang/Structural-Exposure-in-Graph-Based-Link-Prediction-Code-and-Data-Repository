@@ -1,0 +1,3 @@
+protocol,eligible_count_original,eligible_count_anonymous,eligible_order_preserved,positive_pairs_equal_under_mapping,negative_pairs_equal_under_mapping,positive_count,negative_count
+hist<=2020_target2021-2022,96,96,True,True,True,17,17
+hist<=2022_target2023-2024,176,176,True,True,True,56,56
